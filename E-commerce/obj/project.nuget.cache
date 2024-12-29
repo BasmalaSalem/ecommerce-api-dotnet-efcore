@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LnoOjOUcxDfR6tBCUyjBJWRB64GaCqYhPWQr/L9Pz60zRr12755FfJu4egQhcNEtwOT+1Lc/3S30KG3alMObAg==",
+  "dgSpecHash": "Mjdt1aoQjU6phFkRsyQhjvyQtPPd9WXxP+YqB1EoF3xNU1Omk4K/y7hVK4RNJBVyQkugvfsaw4pwunZvwWLN4g==",
   "success": true,
-  "projectFilePath": "/home/basmala/tot/Code/First project/E-commerce/E-commerce/E-commerce.csproj",
+  "projectFilePath": "/home/basmala/tot/Code/First project/ecommerce-api-dotnet-efcore/E-commerce/E-commerce.csproj",
   "expectedPackageFiles": [
     "/home/basmala/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/home/basmala/.nuget/packages/microsoft.aspnetcore.openapi/8.0.10/microsoft.aspnetcore.openapi.8.0.10.nupkg.sha512",

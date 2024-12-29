@@ -3409,11 +3409,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/basmala/tot/Code/First project/E-commerce/E-commerce/E-commerce.csproj",
+      "projectUniqueName": "/home/basmala/tot/Code/First project/ecommerce-api-dotnet-efcore/E-commerce/E-commerce.csproj",
       "projectName": "E-commerce",
-      "projectPath": "/home/basmala/tot/Code/First project/E-commerce/E-commerce/E-commerce.csproj",
+      "projectPath": "/home/basmala/tot/Code/First project/ecommerce-api-dotnet-efcore/E-commerce/E-commerce.csproj",
       "packagesPath": "/home/basmala/.nuget/packages/",
-      "outputPath": "/home/basmala/tot/Code/First project/E-commerce/E-commerce/obj/",
+      "outputPath": "/home/basmala/tot/Code/First project/ecommerce-api-dotnet-efcore/E-commerce/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/basmala/.nuget/NuGet/NuGet.Config"
